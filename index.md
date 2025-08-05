@@ -10,9 +10,11 @@ Made a small home network in Ciscos packet tracer.
 
 I started with setting up a simple ISP (Internet Service Provider). I added a cloud PT and a Server. 
 I started with changing the DSL to Cable under the Ethernet6 tab. After that i made a quick server setup.
+
 For the router setup I started by setting the static DNS 1 to the server. After that I changed my network mode to "N-Only".
 Changed my Networks SSID to HomeNetwork so it is easier to find for my devices. I made sure to give my connection a password.
 I used the WPA2 Personal security mode with AES encryption. 
+
 I connected my Desktop Up(home office) to the router with an Ethernet connection for fast and reliable internet.
 The laptop got a WPC300N module so it has wireless access to the router. The home Desktop Down got the WMP300N module
 this way it also has wireless access. When connecting my devices to the Wireless HomeNetwork it asks for the previously installed password.
