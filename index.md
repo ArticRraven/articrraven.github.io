@@ -5,14 +5,14 @@ layout: default
 # Packet Tracer Home Network
 
 Made a small home network in Ciscos packet tracer.
-Hi
 
 ## Process:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I started with setting up a simple ISP (Internet Service Provider). I added a cloud PT and a Server.
 
+I started with changing the DSL to Cable under the Ethernet6 tab. After that i made a quick server setup.
+
+For the router setup I started by setting the static DNS 1 to the server. After that I changed my network mode to "N-Only".
 ### Header 3
 
 ```js
