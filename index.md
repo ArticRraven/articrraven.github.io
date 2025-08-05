@@ -18,6 +18,7 @@ The laptop got a WPC300N module so it has wireless access to the router. The hom
 this way it also has wireless access. When connecting my devices to the Wireless HomeNetwork it asks for the previously installed password.
 Once entered you have wireless acces to the internet.
 
+![Home Network](../images/homenetwork1.png)
 ### Header 3
 
 ```js
